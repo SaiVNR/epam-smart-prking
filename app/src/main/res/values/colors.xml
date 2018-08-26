@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CCCCCC</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="epamBlue">#76CDD8</color>
+    <color name="epamGreen">#CEDB56</color>
+    <color name="epamGraphite">#222222</color>
+    <color name="epamWhite">#FFFFFF</color>
+    <color name="epamCoral">#D35D47</color>
+    <color name="epamBrightBlue">#008ACE</color>
+    <color name="epamDarkBlue">#263852</color>
+</resources>
